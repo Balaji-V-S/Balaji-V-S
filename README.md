@@ -45,6 +45,7 @@ Connect🔌,Develop🖥️,Grow📈
 <img style="padding:5px;" align="center" alt="Flutter" width="35px"
 src="https://user-images.githubusercontent.com/322107/88122097-1113c100-cb9e-11ea-90bb-b72d84ef84a6.png"/>  
 <img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>  
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>  
 <!-- and more such images with different URLs in src -->
 </p>
 <!--
