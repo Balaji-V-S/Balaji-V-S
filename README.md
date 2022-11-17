@@ -4,7 +4,7 @@ I'm Balaji V S. I'm a student during the day and Software developer in night,swi
 
 ---
 
-⚡A Quick Introdution </br>
+⚡A Quick Introdution \
 -🌱 I’m currently learning Flutter/Firebase
 
 
@@ -44,6 +44,11 @@ src="https://user-images.githubusercontent.com/322107/88122097-1113c100-cb9e-11e
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>  
 <!-- and more such images with different URLs in src -->
 </p>
+
+---
+Stats
+---
+[![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-v-s)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Balaji-V-S/Balaji-V-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
