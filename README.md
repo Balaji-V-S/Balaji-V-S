@@ -48,7 +48,7 @@ src="https://user-images.githubusercontent.com/322107/88122097-1113c100-cb9e-11e
 ---
 Stats
 ---
-[![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-v-s)](https://github.com/anuraghazra/github-readme-stats)
+[![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-v-s)](https://github.com/Balaji-V-S/Balaji-V-S)
 <!--
 **Balaji-V-S/Balaji-V-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
