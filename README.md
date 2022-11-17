@@ -4,13 +4,9 @@ I'm Balaji V S. I'm a student during the day and Software developer in night,swi
 
 ---
 
-⚡A Quick Introdution
+⚡A Quick Introdution </br>
 -🌱 I’m currently learning Flutter/Firebase
--
--
--
--
--
+
 
 ---
 
