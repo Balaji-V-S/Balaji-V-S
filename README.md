@@ -21,7 +21,7 @@ Connect🔌,Develop🖥️,Grow📈
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-v-s/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/balaji_v_s_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXgjHLpKHpNjxVDNBTrqFljCzFNwXSRlzXprqjZlmdhNbfMsRZTpChLlSFqRCHCwqRSq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqrxrxLscWQnnpnDDZVztxfrqWJVmSNCCFSmCfNSSJKmdmPBfBRCnKXrKFQgrHDFcXFg)
 ---
 🎧Spotify Playing
 ---
