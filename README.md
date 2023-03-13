@@ -71,4 +71,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Profile Views👀 \
 ![Visitor Count](https://profile-counter.glitch.me/Balaji-V-S/count.svg)<br>
