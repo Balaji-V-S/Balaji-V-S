@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+It's+been+a+While+👋)](https://git.io/typing-svg) 
 
-Hey its Balaji V S! I'm a full time engineer during the day and developer in night,switching into creator mode-Developing apps and softwares!
+Hey its Balaji V S! I'm a full time engineer during the day and Indie Hacker in night,switching into creator mode-Developing apps and softwares!
 
 ---
 
