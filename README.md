@@ -16,7 +16,7 @@ Hey this is Balaji V S! I'm a full time engineer during the day and Indie Hacker
 <ul>
   <li>🔭 I'm looking for some interesting open-source projects</li>
   <li>💬 Ask me about Tech</li>
-  <li>🌱 I’m currently learning Docker & Kubernetes</li>
+  <li>🌱 I’m currently exploring self-hosting stuffs</li>
   <li>🤟 Physics Geek</li>
   <li>⚡ Codeholic</li>
   <li>📫 How to reach me: Links are below 👇</li>
@@ -52,15 +52,15 @@ Hey this is Balaji V S! I'm a full time engineer during the day and Indie Hacker
 <img src="https://skillicons.dev/icons?i=java,python,c,dart,javascript,typescript" /><br>
 
 ### 🌐 Full Stack Development  
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,vite,tailwind,spring,redis,nginx,nodejs,express,django,flutter" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,react,vite,tailwind,spring,redis,nginx,kafka,nodejs,express,fastapi,flutter" /><br>
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,firebase,aws" /><br>
 
 ### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,postman,linux,github,docker,kubernetes,gcp,raspberrypi,androidstudio,figma,wordpress" /><br>
+<img src="https://skillicons.dev/icons?i=git,postman,linux,github,docker,kubernetes,gcp,raspberrypi,gitlab,androidstudio,figma,wordpress" /><br>
 
-### 🤖 Machine Learning  
+### 🤖 Machine Learning & Deep Learning 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 <br>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
