@@ -19,7 +19,7 @@ Hey this is Balaji V S! I'm a full time engineer during the day and Indie Hacker
   <li>🌱 I’m currently exploring self-hosting stuffs</li>
   <li>🤟 Physics Geek</li>
   <li>⚡ Codeholic</li>
-  <li> An Arch user BTW ᕙ⁠(͡⁠°⁠‿⁠ ͡⁠°⁠)⁠ᕗ </li>
+  <li> I use Arch BTW ᕙ⁠(͡⁠°⁠‿⁠ ͡⁠°⁠)⁠ᕗ </li>
   <li>📫 How to reach me: Links are below 👇</li>
 </ul>
 </td>
