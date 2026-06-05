@@ -65,7 +65,7 @@ Hey this is Balaji V S! I'm a full time engineer during the day and Indie Hacker
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 <br>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=graph&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=graph&logoColor=white" />
 <img src="https://img.shields.io/badge/CrewAI-6B46C1?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" />
